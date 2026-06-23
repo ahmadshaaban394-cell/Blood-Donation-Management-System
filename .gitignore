@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+**/.vs/
+bin/
+**/bin/
+obj/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.slnLaunch.user
+*.dtbcache.v2
+*.futdcache.v2
+
+# Local development settings
+**/appsettings.Development.json
